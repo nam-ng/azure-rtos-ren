@@ -24,7 +24,7 @@
             <source description="Components supporting Firmware Integration Technology" display="Firmware Integration Technology" id="com.renesas.smc.tools.swcomponent.fit.source"/>
         </configuration>
         <configuration inuse="true" name="r_cmt_rx">
-            <component display="r_cmt_rx" id="r_cmt_rx5.00" version="5.00">
+            <component display="r_cmt_rx" id="r_cmt_rx4.90" version="4.90">
             </component>
             <source description="Components supporting Firmware Integration Technology" display="Firmware Integration Technology" id="com.renesas.smc.tools.swcomponent.fit.source"/>
         </configuration>
